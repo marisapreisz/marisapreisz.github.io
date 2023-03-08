@@ -17,7 +17,7 @@ body {
 }
 
 .ir-arriba {
-	/*display:none;*/
+	display:none;
 	padding:20px;
 	background:#ADADADAD;
 	font-size:20px;
